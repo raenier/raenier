@@ -1,3 +1,6 @@
 ## Hi there 👋
 
-Ren here, check out any repositories that might be of interest to you.
+I'm Raenier
+I'm a Ruby on Rails developer with experience in building and testing web applications. Feel free to explore my repositories—there might be something here that catches your interest. I'm always open to feedback and collaboration.
+
+Thanks for visiting!
